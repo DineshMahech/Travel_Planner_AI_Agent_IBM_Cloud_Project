@@ -57,6 +57,8 @@ Optimizes schedules dynamically
 
 # 🎯 RESULTS & PERVIEW
 
+<img width="1387" height="1350" alt="Screenshot 2025-08-04 232625" src="https://github.com/user-attachments/assets/06487bb0-3317-47c5-a247-478b02ff765d" />
+
 <img width="2215" height="1525" alt="3" src="https://github.com/user-attachments/assets/42502217-7b7c-4d40-8f71-bfcadfaa94af" />
 
 # 👉 CONCLUSION 
