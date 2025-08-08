@@ -1,10 +1,11 @@
 # 🤖 TRAVEL_PLANNER_AI_AGENT_IBM_CLOUD_PROJECT
 An AI-powered assistant that helps users plan trips efficiently and intelligently using IBM Cloud Lite and IBM Granite. It recommends destinations, builds personalized itineraries, and suggests transport and accommodation options based on user preferences, budget, and travel constraints.
+<img width="1653" height="927" alt="travel agent background" src="https://github.com/user-attachments/assets/4c00e1f3-2448-44f4-a1de-ab7a79f82e83" />
 
 
 # 🧩 PROBLEM STATEMENT
 
-Design and develop an AI-powered Travel Planner Agent that :
+Design and develop an AI-powered Travel Planner Agent that 
 Plans trips based on user preferences
 Suggests destinations, builds itineraries
 Recommends transport and accommodations
